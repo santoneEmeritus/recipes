@@ -22,7 +22,7 @@
 4. Add peppers and onions to a pan with the water and vinegar
 5. Bring the peppers and onions to a boil, reduce heat and simmer about 10 minutes or until tender. Don't breathe the fumes. 
 6. Drain most of the water/vinegar mixture, add the sugar and spices.
-7. Bring to soft candy temperature to completely dissolve sugar, about 10 minutes. (~110 to 115 C) Or just cook for ~15-20m if you're not sure. 
+7. Bring to soft candy temperature to completely dissolve sugar, about 10 minutes. (~110&deg;C to 115&deg;C) Or just cook for ~15-20m if you're not sure. 
 
 ## Canning
 1. Place boiling mixture into warm/sterilized jars, leaving 1/4-inch head space. Clean edges to ensure a good seal. Process with the boiling water method for ~10m. Longer times for larger jars. 
