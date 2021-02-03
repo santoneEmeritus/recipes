@@ -12,8 +12,8 @@
 - 1.5 cups coconut milk
 - 1.5 cups half-and-half
 - 2 eggs
-- 0.75 cups white sugar
-- 0.5 cups corn starch
+- 0.75 cup white sugar
+- 0.5 cup corn starch
 - 0.25 teaspoon salt
 - 0.25 + 0.75 cup coconut flakes, toasted
   * Place coconut flakes on a flat pan and bake at 350&deg;F/175&deg;C for 5-8 minutes until golden brown
